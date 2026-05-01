@@ -363,4 +363,13 @@
       "ufoID": 16
     }
   ]
+},
+{
+  "name": "LioStyle",
+  "IconID": 55,
+  "color1": 49,
+  "color2": 12,
+  "glow": true,
+  "shipID": 33,
+  "ufoID": 18
 }
